@@ -1,0 +1,24 @@
+input[type="text"],
+textarea {
+    border: 1px solid dashed;
+    background-color: rgb(221, 216, 212);
+    width: 480px;
+    padding: .5em;
+    font-size: 1em;
+}
+
+input[type="Submit"] {
+    color: white;
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 200px;
+    height: 40px;
+    background-color: #6552b9;
+    border: 5px solid;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-color: rgb(221, 216, 212);
+    font-weight: bold;
+}
